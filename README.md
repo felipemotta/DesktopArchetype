@@ -35,7 +35,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Felipe Motta** - [FelipeMotta](https://github.com/FelipeMotta)
+* **Felipe Motta** - [GitHub](https://github.com/FelipeMotta)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
